@@ -11,5 +11,5 @@ The function to solve the Bonus Question is **pair_points**. The function first 
 The main challenge here was creating a function which can properly know the position of each OldCenter inside the array containing all of the points. This was fundamental in order to get the label of the OldCenter which as was previously explained is used to pair it to the other OldCenter belonging to the same corner.
 
 ### Note:
-In the repository you find four images to test the code: image0.png and image1.png are the QA logo with different arrangement of the dots, while image2.png and image3.png are a checkboard with different arrangement of the dots. The code is provided both as a jupyter notebook and as a .py file.
+In the repository you find four images to test the code: image0.png and image1.png are the QA logo with different arrangement of the dots, while image2.png and image3.png are images of a checkboard with different arrangement of the dots. The code is provided both as a jupyter notebook and as a .py file.
 
